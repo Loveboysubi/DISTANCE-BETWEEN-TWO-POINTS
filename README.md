@@ -8,9 +8,9 @@ start the program
 ### Step 2: 
 get the input value as|1,|2
 ### Step 3:
-substitute the values in the distance formula
-Substitute the values in the distance formula  ![formula](/formula.JPG)
-### Step 4: 
+Substitute the values in the distance formula
+![Screenshot 2024-01-04 141152](https://github.com/Loveboysubi/DISTANCE-BETWEEN-TWO-POINTS/assets/138970879/1a7a385a-58a0-4f27-b370-d54afc60d846)
+### Step 4:
 print the required output
 ### Step 5: program
 end of the 
